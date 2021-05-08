@@ -1,6 +1,6 @@
 menu:
-    Blog: /
-    Archive: /archives/
+    首页: /
+    文章: /archives/
     Weibo: https://weibo.com/u/2001366581
     GitHub: https://github.com/chiokotomi
     #Rss: /atom.xml
